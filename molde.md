@@ -33,3 +33,7 @@ Para hacer un molde hay que hacer estos pasos:
 El molde sirve para darle distintas formas dependiendo del tipo de objeto que quieras hacer
 
 ```
+
+![imagen](https://user-images.githubusercontent.com/90753262/153826233-79ab6511-7d07-4a76-8785-eec2c1aa5e7b.png)![imagen](https://user-images.githubusercontent.com/90753262/153826323-e9d7bbd8-1931-4c8a-b0a4-818d48d2bb44.png)
+
+
