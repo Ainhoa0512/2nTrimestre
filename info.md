@@ -71,4 +71,3 @@ Pueden crearse piezas como por ejemplo:
 
 -Industrial
 
-
