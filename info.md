@@ -57,3 +57,16 @@ Pueden crearse piezas como por ejemplo:
 
 -Piezas para sistemas de ventilación
 
+#### -La fabricación CNC se maneja para otros sectores como:
+
+-Aeronáutica
+
+-Bricolaje
+
+-Electrónica
+
+-Automovilístico
+
+-Industrial
+
+
