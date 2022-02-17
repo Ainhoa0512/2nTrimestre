@@ -71,3 +71,6 @@ Pueden crearse piezas como por ejemplo:
 
 -Industrial
 
+![5445454](https://user-images.githubusercontent.com/90753262/154442358-83ed6183-8a6e-4c58-8d2a-55131e30f2a5.jpg)
+![5445454](https://user-images.githubusercontent.com/90753262/154442383-14c7d2c2-021b-4406-b5a3-a3b6fe335ce2.jpg)
+![77](https://user-images.githubusercontent.com/90753262/154442475-6b0effc6-6578-4b8a-920b-ddcf5d62269c.png)
