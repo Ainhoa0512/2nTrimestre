@@ -7,3 +7,15 @@ Posavasos
 
 Soporte de velas
 ![imagen](https://user-images.githubusercontent.com/90753262/154469457-59ec2cc2-3ec3-4c92-be35-e46957dfbcc0.png)
+
+
+Robot de arduino 
+![imagen](https://user-images.githubusercontent.com/90753262/154472683-a71b096e-6a4b-4005-aa9d-08cecfa3526f.png)
+https://eng.lofirobot.com/codebox/the-rover/
+
+
+spinner:
+![imagen](https://user-images.githubusercontent.com/90753262/154473650-a789b336-b631-4b27-8833-62de9e1a5824.png)
+
+
+https://blog.bricogeek.com/tag/spinner
