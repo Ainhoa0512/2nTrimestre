@@ -23,6 +23,8 @@ Consiste en el uso de un sistema integrado y asistido por ordenador compuesto po
 de simulación, visualización en 3D, análisis y colaboración con el objetivo de crear 
 definiciones de procesos de producto y de fabricación simultáneamente.
 
+La programación de cada pieza tiene una cierta complejidad, no solo se tiene que programar la posición de cada punto, sino el trabajo de la herramienta y el tipo de herramienta a usar en cada trabajo. Es necesario introducir los valores correspondientes a la velocidad de corte, rotación, avance… Cada máquina-herramienta es diferente y está diseñada para diferentes trabajos y por tanto, cada máquina tendrá su propio programa CNC.
+
 #### -Cosas que se pueden hacer con una CNC?
 
 Pueden crearse piezas como por ejemplo:
