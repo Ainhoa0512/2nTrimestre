@@ -1,3 +1,16 @@
+
+Lampara con leds:
+![imagen](https://user-images.githubusercontent.com/90753262/154477515-6c5f2b3b-3bf9-433b-b8bb-6a460c0af926.png)
+
+https://blog.bricogeek.com/noticias/raspberry-pi/lampara-de-lava-digital-con-neopixels-y-raspberry-pi/
+
+
+
+
+
+
+
+
 Soporte para el movil
 ![imagen](https://user-images.githubusercontent.com/90753262/154469112-5e98e3ec-e3da-422d-abd6-7a832a01bb3c.png)
 
@@ -19,3 +32,5 @@ spinner:
 
 
 https://blog.bricogeek.com/tag/spinner
+
+
