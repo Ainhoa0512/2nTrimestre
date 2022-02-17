@@ -8,9 +8,19 @@ https://blog.bricogeek.com/noticias/raspberry-pi/lampara-de-lava-digital-con-neo
 https://www.youtube.com/watch?v=dYMSlSlgDGk
 
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
+otros poeroyectos
 
 Soporte para el movil
 ![imagen](https://user-images.githubusercontent.com/90753262/154469112-5e98e3ec-e3da-422d-abd6-7a832a01bb3c.png)
