@@ -41,9 +41,9 @@ Pueden crearse piezas como por ejemplo:
 
 -Cajas para la automoción
 
-Los materiales que se suelen utilizar son: madera, aluminio, hierro, plastico, espuma, titanio, latón, magnesio....etc
+#### -Los materiales que se suelen utilizar son: madera, aluminio, hierro, plastico, espuma, titanio, latón, magnesio....etc
 
-Tambien, dependiendo del material, con CNC puede fabricarse:
+#### -Tambien, dependiendo del material, con CNC puede fabricarse:
 
 -Muebles
 
